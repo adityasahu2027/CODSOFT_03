@@ -35,3 +35,10 @@ body{
 h1{
     color: white;
 }
+@media (max-width: 480px){
+  .button {
+    width: 45px;
+    padding: 10px;
+    font-size: 12px;
+  }
+}
